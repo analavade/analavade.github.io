@@ -1,2 +1,2 @@
 # analavade.github.io
-My Personal web page
+My personal web page
